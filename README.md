@@ -1,8 +1,7 @@
 ## Hi there 👋
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-![snake gif](https://github.com/Hau09dw/Hau09dw/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 # 👋 Hi! My name is Thinh but you can call me Daniel
 
