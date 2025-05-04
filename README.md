@@ -1,8 +1,6 @@
 ## Hi there 👋
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-
 
 # 👋 Hi! My name is Thinh but you can call me Daniel
 
@@ -26,6 +24,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavuong3112&layout=compact&theme=dark)
 
+<h3 align="center">🔥 Always learning, always coding 🔥</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 <!--
 **mavuong3112/mavuong3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
