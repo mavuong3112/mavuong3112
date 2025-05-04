@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://media.giphy.com/media/xT0Gqz7fK6b2g0v52Y/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 
 # 👋 Hi! My name is Thinh but you can call me Daniel
 
