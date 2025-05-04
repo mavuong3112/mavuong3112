@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="https://media.giphy.com/media/xT0Gqz7fK6b2g0v52Y/giphy.gif" width="300"/>
+
 # 👋 Hi! My name is Thinh but you can call me Daniel
 
 ## 🌐 Socials:
@@ -18,7 +20,6 @@
 ...
 
 ## 📊 GitHub Stats:
-![snake gif](https://github.com/mavuong3112/mavuong3112/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavuong3112&layout=compact&theme=dark)
 
