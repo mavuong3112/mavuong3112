@@ -7,6 +7,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/doletruongthinh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
 
+## 🧠 UX/UI Enthusiast
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![LottieFiles](https://img.shields.io/badge/LottieFiles-00B5E2?style=for-the-badge&logo=lottiefiles&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge&logo=rive&logoColor=white)
+
 ## 💻 Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
