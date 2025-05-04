@@ -1,7 +1,6 @@
 # HI THERE ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-# My name is Thịnh ![Vietnam Flag](https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg)
- but you can call me Daniel, follow me for more interesting repo coming soom !
+# My name is Thịnh but you can call me Daniel, follow me for more interesting repo coming soom !
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
