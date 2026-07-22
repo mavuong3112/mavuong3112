@@ -11,7 +11,7 @@
 <br/>
 
 Software Developer & Data Engineer focused on **robust systems**, **data pipelines**, and **full-stack web**.
-
+Review my website @ https://thinhdoworks.com/
 <br/>
 
 </div>
