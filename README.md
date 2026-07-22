@@ -12,9 +12,6 @@
 
 Software Developer & Data Engineer focused on **robust systems**, **data pipelines**, and **full-stack web**.
 
-<br/>
-
-
 </div>
 
 ---
@@ -36,7 +33,6 @@ Software Developer & Data Engineer focused on **robust systems**, **data pipelin
 
 <details open>
 <summary><b>Languages & Frameworks</b></summary>
-<br/>
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -57,7 +53,6 @@ Software Developer & Data Engineer focused on **robust systems**, **data pipelin
 
 <details>
 <summary><b>Databases</b></summary>
-<br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -70,7 +65,6 @@ Software Developer & Data Engineer focused on **robust systems**, **data pipelin
 
 <details>
 <summary><b>AI / ML / Computer Vision</b></summary>
-<br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -87,7 +81,6 @@ Software Developer & Data Engineer focused on **robust systems**, **data pipelin
 
 <details>
 <summary><b>Cloud & DevOps</b></summary>
-<br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -104,7 +97,6 @@ Software Developer & Data Engineer focused on **robust systems**, **data pipelin
 
 <details>
 <summary><b>Tools</b></summary>
-<br/>
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -121,7 +113,6 @@ Software Developer & Data Engineer focused on **robust systems**, **data pipelin
 
 <details>
 <summary><b>Security (Learning)</b></summary>
-<br/>
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-0078D4?style=flat-square&logo=wazuh&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)
