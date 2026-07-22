@@ -14,8 +14,6 @@ Software Developer & Data Engineer focused on **robust systems**, **data pipelin
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/mavuong3112?style=flat&logo=github&logoColor=white&labelColor=24292F&color=58A6FF)](https://github.com/mavuong3112)
-[![Profile views](https://komarev.com/ghpvc/?username=mavuong3112&style=flat&color=58A6FF&label=profile+views)](https://github.com/mavuong3112)
 
 </div>
 
