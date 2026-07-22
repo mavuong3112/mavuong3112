@@ -152,14 +152,14 @@ Software Developer & Data Engineer focused on **robust systems**, **data pipelin
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mavuong3112&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=00000000" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavuong3112&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=00000000" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=mavuong3112&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=00000000" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mavuong3112&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=00000000" alt="Top languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=mavuong3112&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=mavuong3112&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" height="165"/>
 </div>
 
 ---
